@@ -35,7 +35,7 @@ With this workflow, you prevent people from stepping on each others toes while w
 ##### pull request
 *Pull requests let you tell others about changes you’ve pushed to a repository on GitHub. Once a pull request is sent, interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary.*
 
-source: [GitHub help: Using pull requess] (https://help.github.com/articles/about-pull-requests/)
+source: [GitHub help: Using pull requess](https://help.github.com/articles/about-pull-requests/)
 
 tip: review your own pull request before asking for reviews of your teammates
 
