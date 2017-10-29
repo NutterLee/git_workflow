@@ -58,3 +58,10 @@ If you already pushed your branch to remote, remember to use -f next time you pu
 
 Teams usually establish a minimum amount of reviews to get a pull request merged. Once you get the enough numbers of eyes on your code, designate someone to merge it! You can also merge yourself, but that's not the usual on most teams.
 And that's it! Your code is now on your master branch, ready to ship to production.
+
+### **Reference**
+
+1.https://medium.com/@igor_marques/git-workflow-basics-d405746f6205
+2.https://help.github.com/articles/about-pull-requests/
+3.https://git-scm.com/
+4.https://bocoup.com/blog/git-workflow-walkthrough-feature-branches
