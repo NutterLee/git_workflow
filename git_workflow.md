@@ -50,7 +50,7 @@ If you already pushed your branch to remote, remember to use -f next time you pu
 
     $ (some_branch) git push -f origin some_branch
 
-<font color=#DC143C>**Warning** </font>
+<font color=#DC143C>**Warning**</font><br>
     **1. Pushing with -f is a very dangerous thing. Proceed with caution and always be sure that you're pushing to the right branch.<br>
     2.NEVER rewrite the commit history of public branches (like master). This will truly mess your teammates work.**
 
