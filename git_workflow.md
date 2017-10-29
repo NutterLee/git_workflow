@@ -1,5 +1,5 @@
 # **Git workflow**
-[Git](https://git-scm.com/images/branching-illustration@2x.png)
+![Git](https://git-scm.com/images/branching-illustration@2x.png)
 
 ## **Benifits**
 Among the benefits of this workflow are the fact that **your work is completely isolated from everyone else's** and also **the reduction of error going to production.**
@@ -9,7 +9,7 @@ With this workflow, you prevent people from stepping on each others toes while w
 
 *Branching means you diverge from the main line of development and continue to do work without messing with that main line.*
 
-[Branch](https://cdn-images-1.medium.com/max/1000/1*XJmL7fWV4Coxt12AzHeG-A.png)
+![Branch](http://svnbook.red-bean.com/en/1.7/images/ch04dia2.png)
 
 <font size=2> the main line is your master branch (main code). See how each branch is isolated from the main code until a certain point
 
@@ -51,7 +51,7 @@ If you already pushed your branch to remote, remember to use -f next time you pu
     $ (some_branch) git push -f origin some_branch
 
 <font color=#DC143C>**Warning** </font>
-    **1. Pushing with -f is a very dangerous thing. Proceed with caution and always be sure that you're pushing to the right branch.
+    **1. Pushing with -f is a very dangerous thing. Proceed with caution and always be sure that you're pushing to the right branch.<br>
     2.NEVER rewrite the commit history of public branches (like master). This will truly mess your teammates work.**
 
 ## **Integrating your code**
@@ -61,7 +61,7 @@ And that's it! Your code is now on your master branch, ready to ship to producti
 
 ### **Reference**
 
-1.https://medium.com/@igor_marques/git-workflow-basics-d405746f6205
-2.https://help.github.com/articles/about-pull-requests/
-3.https://git-scm.com/
+1.https://medium.com/@igor_marques/git-workflow-basics-d405746f6205 <br>
+2.https://help.github.com/articles/about-pull-requests/<br>
+3.https://git-scm.com/<br>
 4.https://bocoup.com/blog/git-workflow-walkthrough-feature-branches
